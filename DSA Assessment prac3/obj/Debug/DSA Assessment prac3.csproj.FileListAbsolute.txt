@@ -1,0 +1,7 @@
+C:\Users\Ruchi\source\repos\DSA Assessment prac3\DSA Assessment prac3\bin\Debug\DSA Assessment prac3.exe.config
+C:\Users\Ruchi\source\repos\DSA Assessment prac3\DSA Assessment prac3\bin\Debug\DSA Assessment prac3.exe
+C:\Users\Ruchi\source\repos\DSA Assessment prac3\DSA Assessment prac3\bin\Debug\DSA Assessment prac3.pdb
+C:\Users\Ruchi\source\repos\DSA Assessment prac3\DSA Assessment prac3\obj\Debug\DSA Assessment prac3.csproj.AssemblyReference.cache
+C:\Users\Ruchi\source\repos\DSA Assessment prac3\DSA Assessment prac3\obj\Debug\DSA Assessment prac3.csproj.CoreCompileInputs.cache
+C:\Users\Ruchi\source\repos\DSA Assessment prac3\DSA Assessment prac3\obj\Debug\DSA Assessment prac3.exe
+C:\Users\Ruchi\source\repos\DSA Assessment prac3\DSA Assessment prac3\obj\Debug\DSA Assessment prac3.pdb
